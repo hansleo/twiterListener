@@ -1,7 +1,7 @@
 #-*- coding:utf8 -*-
 import pymysql
 
-conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', passwd='3518', db='tweet_collector', charset='utf8')
+conn = pymysql.connect(host='127.0.0.1', port=, user=, passwd=, db=, charset='utf8')
 
 
 def select(data, option = ''):
