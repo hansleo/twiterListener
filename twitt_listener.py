@@ -6,10 +6,10 @@ from tweepy.streaming import StreamListener
 import SQL_util
 import datetime
 
-ckey = 'lvkgpU4n1sQKvqb7OF707CnwV'
-csecret = 'BQbIIfzpRho1IzyDEpNTUtEXFMNh9rydUeJBsHqWHftxApJBgt'
-atoken = '713544464887775232-9HIAP4rIOSXmT44N2RnwuHECMMi6f6w'
-asecret = '2YNc3CYOesAwH9Y89hinjJ9fLFNMzzeGsLLaleVMhGmgn'
+ckey =
+csecret = 
+atoken =
+asecret = 
 keywords = ['니다.', '다.', '아요.', '한다.', '했다.', '있다.', '없다.', '다!', '까?']
 month = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 
